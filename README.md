@@ -1,1 +1,1 @@
-# elma - polovna bijela tehnika, Janja
+# ELMA - polovna bijela tehnika, Janja
