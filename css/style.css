@@ -147,9 +147,15 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     opacity: 1;
     top: 75%;
   }
-
-  /* down arrow end */
-
+  
+  @media screen and (max-width: 600px){
+	  .arrow-container{
+		  top:80%;
+		}
+	}
+	
+/* down arrow end */
+	
 /* Navigation */
 #menu {
 	padding: 20px;
